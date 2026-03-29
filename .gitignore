@@ -140,3 +140,10 @@ changelog/fragments/
 
 # Local scratch workspace
 .tmp/
+
+# Kralj OS - Large cache files
+.serena/
+.cache/
+*.pkl
+node_modules/
+.git-rewrite/
